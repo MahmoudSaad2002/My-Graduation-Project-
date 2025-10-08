@@ -2,7 +2,7 @@
 
 **Mobile Health Revolution: The MobiCare Approach to Patient Support**
 
-> This repository contains the code, documentation, datasets pointers, and design files for **MOBICARE** — a smart, multi-modal assistive wheelchair integrating embedded systems, AI-based control (voice & eye-tracking), and a mobile app for control & health monitoring. The full final project report (book) is included in `final_book.pdf`. 
+> This repository contains the code, documentation , and design files for **MOBICARE** — a smart, multi-modal assistive wheelchair integrating embedded systems, AI-based control (voice & eye-tracking), and a mobile app for control & health monitoring. The full final project report (book) is included in `final_book.pdf`. 
 
 ---
 
@@ -10,7 +10,7 @@
 
 * **Goal:** Provide an adaptive wheelchair controlled via **voice**, **head movement**, **eye-tracking**, and **mobile app**, with integrated **real-time health/environment monitoring** and a human-centered UI/UX. 
 * **Main components:** Raspberry Pi 4 (AI processing), STM32 microcontroller (real-time motor control), ESP32 (Wi-Fi/Bluetooth), BTS7960 motor drivers, Flutter mobile app, and AI models (CNN-LSTM for voice; MediaPipe/OpenCV for gaze).
-* **Highlights / Results:** Voice recognition >90% accuracy; eye-tracking ≈95% gaze detection; system latency <100 ms in tests.
+* **Highlights / Results:** Voice recognition >97% accuracy; eye-tracking ≈95% gaze detection; system latency <100 ms in tests.
 
 ---
 
